@@ -19,19 +19,11 @@ I believe in continuous learning and staying up-to-date with the latest framewor
 
 ## 📫 How to reach me:
 
-<a href="mailto:paulhuszak@gmail.com"> <img alt="Gmail Logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/paul-huszak-2ba25115a/"> <img alt="LinkedIn Logo" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:paulhuszak@gmail.com"> <img alt="Gmail Logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/paul-huszak-2ba25115a/" target="_blank"> <img alt="LinkedIn Logo" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## 🖼️ My last work on...
 
-[**Flytrax**](https://www.flytrax.es)
-
-## 🛬 Deployment & Cloud
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white)
-
-## ⛏ Data Analysis
-
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power-BI](https://img.shields.io/badge/power%20bi-orange?style=for-the-badge&logo=power%20bi)
+✈️ [**FLYTRAX**](https://www.flytrax.es)
 
 ## 📋 Languages
 
@@ -52,6 +44,14 @@ I believe in continuous learning and staying up-to-date with the latest framewor
 ## 🧪 Testing and Code Coverage
 
 ![Cypress](https://img.shields.io/badge/cypress-2e66ac.svg?style=for-the-badge&logo=cypress&logoColor=white) ![Istanbul](https://img.shields.io/badge/istanbul-orange.svg?style=for-the-badge&logo=istanbul&logoColor=white) ![Espresso](https://img.shields.io/badge/espresso-gr?style=for-the-badge&logo=espresso&logoColor=white)
+
+## 🛬 Deployment & Cloud
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white)
+
+## ⛏ Data Analysis
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power-BI](https://img.shields.io/badge/power%20bi-orange?style=for-the-badge&logo=power%20bi)
 
 ## ➕ Other tools
 
