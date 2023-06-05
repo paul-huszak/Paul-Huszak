@@ -55,4 +55,4 @@ I believe in continuous learning and staying up-to-date with the latest framewor
 
 ## ➕ Other tools
 
-![PhotoShop](https://img.shields.io/badge/photoshop-001d34.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=#2fa3f7) ![Illustrator](https://img.shields.io/badge/illustrator-330000.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=#ff9a00) ![Procreate](https://img.shields.io/badge/procreate-242424.svg?style=for-the-badge&logo=procreate&logoColor=#white)
+![PhotoShop](https://img.shields.io/badge/photoshop-001d34.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=#2fa3f7) ![Illustrator](https://img.shields.io/badge/illustrator-330000.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=#ff9a00) ![Procreate](https://img.shields.io/badge/procreate-242424.svg?style=for-the-badge&logo=procreate&logoColor=#white) ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=#white)
