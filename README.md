@@ -1,8 +1,11 @@
 # 👋🏻 Hi, I'm Paul!
 
+<p style="text-align: justify">
 I am an enthusiastic and adaptable front-end developer with expertise in HTML, CSS, and JavaScript. I am always eager to learn and embrace new challenges in the ever-evolving field of web development. With a focus on delivering high-quality results, I strive to enhance user experiences through responsive and accessible designs. Collaboration is a key aspect of my work, as I enjoy working closely with designers and back-end developers to create seamless interfaces.
 
 I believe in continuous learning and staying up-to-date with the latest frameworks and tools. Overall, I am a dedicated front-end developer ready to apply my knowledge and skills to any project, with a commitment to delivering exceptional web experiences.
+
+</p>
 
 ## 🏖️ Some of my interest are...
 
