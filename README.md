@@ -1,4 +1,4 @@
-## Hi, I'm Paul! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+## Hi, I'm Paul! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="fit-content">
 
 I am an enthusiastic and adaptable front-end developer with expertise in HTML, CSS, and JavaScript. I am always eager to learn and embrace new challenges in the ever-evolving field of web development. With a focus on delivering high-quality results, I strive to enhance user experiences through responsive and accessible designs. Collaboration is a key aspect of my work, as I enjoy working closely with designers and back-end developers to create seamless interfaces.
 
