@@ -49,7 +49,7 @@ I believe in continuous learning and staying up-to-date with the latest framewor
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white)
 
-## ⛏ Data Analysis
+## 📊 Data Analysis
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power-BI](https://img.shields.io/badge/power%20bi-orange?style=for-the-badge&logo=power%20bi)
 
