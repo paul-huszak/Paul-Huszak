@@ -62,10 +62,12 @@
 
 ## 📈 GitHub Stats
 
-<div align="center" style="margin-left: 10rem; margin-right: 10rem; display: flex; flex-direction: column">
+<div align="center">
   <img align="center" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=paul-huszak&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img align="center" src ="https://github-readme-streak-stats.herokuapp.com?user=paul-huszak&theme=darcula&hide_border=true&background=FFFFFF00">
   <img align="center" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-huszak&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img align="center" src ="https://github-readme-streak-stats.herokuapp.com?user=paul-huszak&theme=darcula&hide_border=true&background=FFFFFF00">
+</div>
+<div align="center">
   <a style="margin-top: 1rem" href="https://www.buymeacoffee.com/paulhuszak"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="paulhuszak" />
   </a>
