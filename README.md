@@ -18,7 +18,7 @@
 
 ## 🌱 Currently learning...
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Azure](https://img.shields.io/badge/Azure%20DevOps-blue?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ## 📫 How to reach me:
 
